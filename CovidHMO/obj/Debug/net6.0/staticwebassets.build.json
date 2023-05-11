@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w1Ho9k993KUwMNXVEH10MGhU/h0Mo0RXuMTiRWkP9TU=",
+  "Source": "CovidHMO",
+  "BasePath": "_content/CovidHMO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
